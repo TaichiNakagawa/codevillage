@@ -1,0 +1,15 @@
+h1{
+background-color: aqua;  
+text-align: center;
+
+}
+img{
+  inline-size: 30%;
+}
+body{
+  background-color:whitesmoke;
+  text-align: center;
+}
+h2,h3,p{
+  text-align: center;
+}
